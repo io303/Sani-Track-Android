@@ -1,0 +1,12 @@
+{
+  "appId": "com.utkarsh.sanitrack",
+  "appName": "SaniTrack",
+  "webDir": "www",
+  "server": {
+    "url": "https://TUMHARA-DEPLOYED-URL.com",
+    "cleartext": true
+  },
+  "android": {
+    "allowMixedContent": true
+  }
+}
