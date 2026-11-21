@@ -3,7 +3,7 @@
   "appName": "SaniTrack",
   "webDir": "www",
   "server": {
-    "url": "https://TUMHARA-DEPLOYED-URL.com",
+    "url": "https://sanitrack.onrender.com",
     "cleartext": true
   },
   "android": {
